@@ -1,3 +1,7 @@
+另外一种方案(redsocks)：
+https://superuser.com/questions/667363/how-to-route-traffic-from-one-subnet-through-a-specific-socks-proxy-in-other-sub
+
+本方案(tun2socks)：
 https://unix.stackexchange.com/questions/144562/redirect-all-packets-from-eth1-eth2-through-a-socks-proxy
 
 Redirect ALL packets from eth1 & eth2 through a SOCKS proxy
