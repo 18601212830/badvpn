@@ -1,3 +1,5 @@
+https://unix.stackexchange.com/questions/144562/redirect-all-packets-from-eth1-eth2-through-a-socks-proxy
+
 Redirect ALL packets from eth1 & eth2 through a SOCKS proxy
 
 First, you need tun2socks (often a part of the 'badvpn' package). tun2socks sets up a virtual interface which you can route traffic through, and that traffic will get sent through the target socks proxy.
